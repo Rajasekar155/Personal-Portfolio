@@ -157,7 +157,7 @@ section{
     position: relative;
     display: flex;
     justify-content: space-between;
-    width: 34rem;
+    width: 32.8rem;
     height: 5rem;
  }
 
@@ -166,7 +166,7 @@ section{
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 16rem;
+    width: 14rem;
     height: 100%;
     background: var(--main-color);
     border: .3rem solid var(--main-color);
@@ -899,6 +899,7 @@ section:nth-child(odd) .animate.scroll,
    .home-content h1{
       font-size: 5rem;
    }
+
 }
 
 /* KEYFRANES ANIMATION */
